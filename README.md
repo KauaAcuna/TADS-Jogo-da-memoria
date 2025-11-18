@@ -5,4 +5,4 @@ O foco principal foi a aplicação dos princípios SOLID (SRP e OCP).
 
 Como executar:
 
-Baixe os arquivos e execute o aqruivo Pag14.html.
+Baixe os arquivos e execute o arquivo Pag14.html.
